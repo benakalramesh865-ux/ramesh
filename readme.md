@@ -6,3 +6,5 @@ hello
 how are you 
 good
 bad
+thank you
+ hello
