@@ -5,3 +5,4 @@ import numpy as ps
 print("hello")
 print("Thanks")
 print("END")
+print("ok bye")
